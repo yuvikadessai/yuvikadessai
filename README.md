@@ -36,10 +36,10 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvikadessai&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikadessai&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>  
 
 ---
 
-⭐️ From [Yuvika](https://github.com/YourUsername)
+⭐️ From [Yuvika](https://github.com/yuvikadessai)
