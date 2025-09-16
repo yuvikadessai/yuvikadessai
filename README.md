@@ -8,8 +8,8 @@
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_icon.svg)](https://www.linkedin.com/in/yuvika-dessai-026879288)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/yuviiii_01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvika-dessai-026879288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/yuviiii_01?igsh=MWdwZmtmczN0YmdwYw==)  
 ---
 
 ## 🚀 Skills & Tools  
