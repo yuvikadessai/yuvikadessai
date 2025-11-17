@@ -14,30 +14,20 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-```javascript
-const yuvika = {
-    pronouns: "She" | "Her",
-    code: ["JavaScript", "C", "C++", "HTML", "CSS", "SQL"],
-    askMeAbout: ["web dev", "tech", "backend development", "databases"],
-    technologies: {
-        frontEnd: {
-            js: ["HTML5", "CSS3", "JavaScript"],
-            css: ["Bootstrap", "Tailwind CSS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-            databases: ["MySQL", "MongoDB"]
-        },
-        devOps: ["Git", "GitHub"],
-        tools: ["VS Code", "Postman", "MySQL Workbench"]
-    },
-    currentFocus: "Building Full-Stack Applications with MERN Stack",
-    funFact: "I debug with console.log() more than I'd like to admit! 😄"
-};
-```
-
+🎓 Third Year Computer Engineering Student with a strong foundation in software development principles
+💻 Specializing in Full-Stack Web Development with focus on backend technologies
+🚀 Proficient in building scalable web applications using Node.js, Express.js, and MySQL
+🎯 Experienced in developing RESTful APIs, implementing authentication systems, and designing efficient database schemas
+🌐 Skilled in creating responsive frontend interfaces using HTML5, CSS3, JavaScript, and modern CSS frameworks
+📊 Strong understanding of data structures, algorithms, and software design patterns
+🔧 Proficient with Git for version control and collaborative development workflows
+📚 Currently expanding expertise in the MERN Stack (MongoDB, Express.js, React.js, Node.js)
+💡 Passionate about writing clean, maintainable code and following industry best practices
+🤝 Open to internship opportunities, collaborative projects, and freelance work
+🌱 Continuously learning emerging technologies and contributing to the developer community
+⚡ Committed to delivering high-quality solutions and optimizing application performance
 ---
 
 ## 🎯 Current Focus
