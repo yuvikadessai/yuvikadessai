@@ -132,15 +132,6 @@
 
 ---
 
-
----
-
->
-
-> Add blog posts if you write technical articles!
-
----
-
 ## 🎯 Goals for 2025
 
 - ✅ Master Full-Stack Development with MERN Stack
