@@ -203,41 +203,7 @@ const yuvika = {
 
 ---
 
-## 🔧 Setup Instructions
 
-### To Enable Snake Animation:
-1. Create `.github/workflows/snake.yml` in your profile repository
-2. Add this code:
-```yaml
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        with:
-          github_user_name: yuvikadessai
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
-### Customization Tips:
-- Replace email addresses with your actual email
-- Update repository names in Featured Projects section
-- Add your portfolio link when ready
-- Customize colors in theme parameters (options: radical, dark, tokyonight, dracula, etc.)
-
-**Happy Coding! 🚀**
