@@ -17,17 +17,29 @@
 👨‍💻 About Me
 
 🎓 Third Year Computer Engineering Student with a strong foundation in software development principles
+
 💻 Specializing in Full-Stack Web Development with focus on backend technologies
+
 🚀 Proficient in building scalable web applications using Node.js, Express.js, and MySQL
+
 🎯 Experienced in developing RESTful APIs, implementing authentication systems, and designing efficient database schemas
+
 🌐 Skilled in creating responsive frontend interfaces using HTML5, CSS3, JavaScript, and modern CSS frameworks
+
 📊 Strong understanding of data structures, algorithms, and software design patterns
+
 🔧 Proficient with Git for version control and collaborative development workflows
+
 📚 Currently expanding expertise in the MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
 💡 Passionate about writing clean, maintainable code and following industry best practices
+
 🤝 Open to internship opportunities, collaborative projects, and freelance work
+
 🌱 Continuously learning emerging technologies and contributing to the developer community
+
 ⚡ Committed to delivering high-quality solutions and optimizing application performance
+
 ---
 
 ## 🎯 Current Focus
@@ -133,9 +145,7 @@
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+>
 
 > Add blog posts if you write technical articles!
 
@@ -151,21 +161,9 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yuvikadessai/yuvikadessai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> **Note:** To enable the snake animation, you'll need to set up GitHub Actions. Instructions below!
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
 
 ---
 
@@ -174,7 +172,7 @@
 <div align="center">
 
 💼 Open for collaboration and freelance projects  
-📧 Email: your.email@gmail.com  
+📧 Email: yuvikadessai05@gmail.com  
 🌐 Portfolio: [Coming Soon!]
 
 </div>
