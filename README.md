@@ -132,16 +132,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yuvikadessai&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/yuvikadessai/your-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yuvikadessai&repo=another-repo&theme=radical&hide_border=true)](https://github.com/yuvikadessai/another-repo)
-
-</div>
-
-> **Note:** Replace `your-repo-name` and `another-repo` with your actual repository names
 
 ---
 
@@ -177,13 +167,6 @@
 
 </div>
 
----
-
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 **⭐ From [Yuvika Dessai](https://github.com/yuvikadessai) with 💜**
 
