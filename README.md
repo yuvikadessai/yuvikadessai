@@ -115,7 +115,6 @@
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuvikadessai&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&no-unknown=true" alt="GitHub Trophies"/>
