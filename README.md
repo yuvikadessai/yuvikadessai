@@ -102,50 +102,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvikadessai&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvikadessai&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikadessai&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvikadessai&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="500"/>
-</div>
-
----
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvikadessai&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&no-unknown=true" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvikadessai&bg_color=141321&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🎯 Goals for 2025
-
-- ✅ Master Full-Stack Development with MERN Stack
-- ✅ Contribute to Open Source Projects
-- ✅ Build 10+ Production-Ready Projects
-- ✅ Learn Cloud Technologies (AWS/Azure)
-- ✅ Enhance DSA Skills
-
----
-
-
----
-
-
----
-
 ## 📫 Get In Touch
 
 <div align="center">
